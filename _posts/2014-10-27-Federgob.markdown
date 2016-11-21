@@ -1,9 +1,12 @@
 ---
 layout: post
 title:  "federGOB"
-date:   2016-11-14 13:24:00 +0100
+date:   2014-10-27 13:24:00 +0100
 categories: project
 ---
+
+[federGOB GitHub project](https://github.com/jesusredondo/ckanext-federgob)
+
 ## What is federGOB?
 
 It is an extension for CKAN that eases the federation process of CKAN catalogs with the global catalog of Spain, [Datos.gob](http://www.datos.gob.es/).
