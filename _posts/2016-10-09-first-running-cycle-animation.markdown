@@ -10,4 +10,4 @@ First attempt ever to draw a character animation. This animation was made using 
 *First Running-Cycle*
 
 
->[Ludum Dare](http://ludumdare.com/compo/), someday, just, someday....*
+>[Ludum Dare](http://ludumdare.com/compo/), someday, just someday....*

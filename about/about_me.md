@@ -27,16 +27,16 @@ Balancing myself between *the doer* and *the thinker*.
 
 ### 2015 -- PRESENT: Teaching
 
-I teach the following modules at [IES Valle del Jerte](http://iesvallejertepla.juntaextremadura.net/) :
+I teach the following modules at [IES Valle del Jerte](http://iesvallejertepla.juntaextremadura.net/).
 * Development of interfaces (Desarrollo de Interfaces). Main focus on developing [Swing interfaces](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html) using Java.
-* Services and processes programmation (Programación de servicios y procesos). Threads, monitors, semaphores, sockets and servlet using Java as programming language.
+* Services and processes programming (Programación de servicios y procesos). Threads, monitors, semaphores, sockets and servlet using Java as programming language.
 * Business management systems (Sistemas de gestión empresarial) --> Install and configure [ODOO ERP](https://www.odoo.com/) . Develop Themes and modules for ODOO.
 
 ### 2013 -- 2015: Support technician in the University of Extremadura
 
 Hired by the [Quercus Software Engineering Group](http://www.unex.es/investigacion/grupos/quercus). In these two years I developed and maintained the Open Data Portal for the city of Cáceres, [Opendata Cáceres](http://opendata.caceres.es). I used technologies such as python, javaScript, [Virtuoso](https://virtuoso.openlinksw.com/), [CKAN](http://ckan.org/) and [Open Refine](http://openrefine.org/).
 
-### 2012 -- 2013: Scolarshp in Telefónica Chair:
+### 2012 -- 2013: Scolarship in Telefónica Chair:
 
 During the scholar course 2012-2013 I completed my final degree project of Computing Engineering with a scholarship from [Telefonica](http://catedratelefonica.unex.es/). The main topic of the project is *Publication of data from sensors using Open Linked Data*.
 
