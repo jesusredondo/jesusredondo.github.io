@@ -1,0 +1,21 @@
+---
+---
+@import "minima";
+
+//My custom CSS goes here:
+
+img { 
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+img + em {
+	display: block;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+    color: lightgray;
+}
