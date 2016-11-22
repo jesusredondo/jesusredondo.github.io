@@ -33,3 +33,15 @@ exclude:
 
 google_analytics: UA-87745144-1
 
+disqus:
+  shortname: https-jesusredondo-github-io
+
+
+##APPLY TO ALL 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      comments: true
+
