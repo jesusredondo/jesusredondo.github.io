@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First running cycle animation"
+title:  "Main character idle animation"
 date:   2016-12-02 11:20:00 +0100
 categories: design
 ---
