@@ -9,12 +9,12 @@ I continue designing the main character for my game. This is time for idle anima
 ![](/images/idle.gif)
 *Idle character*
 
-# EDIT:
+## EDIT:
 
 I was a bit dissapointed with the result, so I tweaked the legs a little bit. Making exagerated movements turned out being a good idea:
 
 ![](/images/idle2.gif)
-*Idle character*
+*Idle character version 2*
 
 
 
