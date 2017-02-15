@@ -35,7 +35,7 @@ I have completed this two great tutorials as well: [The Game of Life](https://ww
 <img alt="Shushi-Neko" style="border:1px solid black" src="/images/gameDevelop/ShushiNeko.png" width="250">
 *Capture of Shushi Neko*
 
-What I like most about Cocos2d-x is the amount of freedom it provides to the developer, having access to the whole framework's code. But I have declined the idea of developing with this tutorial mainly because of its ABSOLUTE, NON EXISTENT, PIECE OF SHIT, GARBAGE [more billis here] Documentation. Yeah, everything is free, but the amount of open fronts they have. The terminology is a real mess and there is not clear roadmap. If you are into the framework... that's OK, getting into it is another history.
+What I like most about Cocos2d-x is the amount of freedom it provides to the developer, having access to the whole framework's code. But I have declined the idea of developing with this framework mainly because of its ABSOLUTE, NON EXISTENT, PIECE OF SHIT, GARBAGE [more billis here] Documentation. Yeah, everything is free, but the amount of open fronts they have doesn't promise a clear future. Besides, the terminology is a real mess and there is not clear roadmap. If you are into the framework... that's OK, getting into it is another history.
 
 
 ### [Unity](https://unity3d.com/)
