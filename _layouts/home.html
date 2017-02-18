@@ -6,53 +6,57 @@ layout: default
   
   {{ content }}
 
-  
-  <div class="col-md-4 center">
-    <h1>Design</h1>
-    <ul class="post-list">
-      {% for post in site.categories.design %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <img alt="Jesús Redondo's Site" class="img-portada" src="/images/cover.jpg"/>
 
-          <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </h2>
-        </li>
-      {% endfor %}
-    </ul>
+  <div class="row">
+    <div class="col-md-4 center">
+      <h1>Design</h1>
+      <ul class="post-list">
+        {% for post in site.categories.design %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="col-md-4 center">  
+      <h1 >Projects</h1>
+      <ul class="post-list">
+        {% for post in site.categories.project %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div> 
+
+    <div class="col-md-4 center">  
+      <h1>Teaching</h1>
+      <ul class="post-list">
+        {% for post in site.categories.teaching %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
   </div>
 
-  <div class="col-md-4 center">  
-    <h1 >Projects</h1>
-    <ul class="post-list">
-      {% for post in site.categories.project %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-          <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </h2>
-        </li>
-      {% endfor %}
-    </ul>
-  </div> 
-
-  <div class="col-md-4 center">  
-    <h1>Teaching</h1>
-    <ul class="post-list">
-      {% for post in site.categories.teaching %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-          <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </h2>
-        </li>
-      {% endfor %}
-    </ul>
+  <div class="row center salto_gra">
+    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   </div>
-
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>

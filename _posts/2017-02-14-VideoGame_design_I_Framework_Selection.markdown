@@ -4,7 +4,7 @@ title:  "Video Game Design I: FRAMEWORK SELECTION"
 date:   2017-02-14 23:36:00 +0100
 categories: project
 ---
-In this series of posts I will develop a video game from bottom to top. During these series of posts, many of the assets and decisions will be taken in conjunction with the people that follows the manual. Don't miss anything and subscribe at [@Musicaligera_](https://twitter.com/Musicaligera_).
+In this series of posts I will develop a video game from bottom to top. During these series of posts, many of the assets and decisions will be taken in conjunction with the people that follow the manual. Don't miss anything and subscribe at [@Musicaligera_](https://twitter.com/Musicaligera_).
 
 ## The Video Game Itself:
 
