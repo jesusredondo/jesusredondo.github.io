@@ -9,9 +9,9 @@ In this entry we will review a bunch of tools that are key to develop our video 
 
 Let’s see what we got! 
 
-<br>
+
 ## 1 Pixel Art graphic editor & Animator: [PyxelEdit](http://pyxeledit.com/)
-<br>
+
 
 PyxelEdit is a multiplatform (Mac, Linux, OSx) graphic editor for pixel art that costs 0€. It is completely designed to create sprites, animations and tiles for our games. Its main advantages are its lightweight design and ease of use.
 
@@ -27,9 +27,9 @@ And here I have exported the same animation as a GIF:
 
 Of course this tool can be used with Unity, LibGDX, Cocos2d-x…
 
-<br>
+
 ## 2 Tile Map Editor: [Tiled](http://www.mapeditor.org/)
-<br>
+
 
 Tiled is a multiplatform tool completely free. It is the perfect tool to imagine and plan levels and maps made of cells.
 
@@ -59,9 +59,9 @@ But what it is really useful in Tiled is its ability to add extra information to
 
 The maps created in Tiled are exported into a file that includes all the features we described using the editor. This file can be opened and read by any framework/engine (LibGDX, Unity, Cocos2d-x…) and it will have to be used as the basis for creating all the objects, textures, metadata, conditions of our map in the game.
 
-<br>
+
 ## 3 Physics Engine: [Box2D](https://github.com/erincatto/Box2D)
-<br>
+
 
 Box2D is a physics engine that simulates all the physics for recreating a realistic world. In this world we define bodies: our main character, the floor, the walls… and the properties for these bodies: density, friction, elasticity, position… you get the idea. The physics engine is in charge of simulating how all these objects react when interacting with other forces and collide.
 
@@ -74,9 +74,9 @@ In the following example I am using Java’s Box2D implementation with LibGDX to
 <img alt="box2D-simulation" src="/images/gameDevelop/3/7.gif" width="400">
 *Box2D simple simulation*
 
-<br>
+
 ## 4 Graphical editors for Physics Engines: [R.U.B.E.](https://www.iforce2d.net/rube/)
-<br>
+
 
 Graphical editors are an aid to work with physics engines. We could define all the entities in the game by directly coding them… but in order to create complex worlds including many entities things can get too much complicated. 
 
@@ -89,9 +89,9 @@ Rube costs about 40€, but it is an indispensable tool if we want to work woth 
 <img alt="RUBE-simulation" src="/images/gameDevelop/3/8.gif" width="400">
 *R.U.B.E. can run simulations*
 
-<br>
+
 ## 5 Particle editors: [2D Particle Editor](https://github.com/libgdx/libgdx/wiki/2D-Particle-Editor)
-<br>
+
 
 The particle effects are the confetti of video games. They are images, colors and shapes shown on the screen that follow some determined pattern (sometimes a random pattern). 
 
@@ -107,9 +107,9 @@ And here it is the result:
 <img alt="2DParticleEditor-fire" src="/images/gameDevelop/3/10.gif" width="250">
 *Fire particle Effect*
 
-<br>
+
 ## 6 Other Tools:
-<br>
+
 
 Of course there are many other tools, but hey, this post has to end sometime.
 Here I left you some other tools I use in case you want to further explore:
@@ -124,11 +124,11 @@ Here I left you some other tools I use in case you want to further explore:
 
 - [OpenGameArt](http://opengameart.org/).
 
-<br>
+
 
 ## Conclusions:
 
-<br>
+
 
 That is the arsenal of basic tools we need as programmers / designers. 
 
