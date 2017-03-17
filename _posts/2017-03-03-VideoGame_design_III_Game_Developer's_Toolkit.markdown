@@ -141,3 +141,5 @@ Here it is a gif from a bizarre/random project that conglomerate all the tools u
 
 #### Do not hesitate to comment on doubts and to leave me new proposals for the following entries!
 
+Follow me on twitter for more entries like this → [@Musicaligera_](https://twitter.com/Musicaligera_)
+
