@@ -3,7 +3,9 @@ layout: default
 ---
 <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 <script type="text/javascript">
+  alert("Va el javascript");
   $(document).ready(function() {
+    alert("Va jquery");
     $(window).scroll(function() {
       console.log($(window).scrollTop()+" -- "+ $("article.post").height() +" -- "+ $(window).height());
       //if ($(window).scrollTop() >= ($(document).height() - $(window).height())) {
