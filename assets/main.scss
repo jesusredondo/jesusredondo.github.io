@@ -39,3 +39,109 @@ img + em {
 .salto_gra{
     margin-top:30px;
 }
+
+
+// STUFF FOR POPUP
+.popup{
+  width:380px;
+  height:180px;
+  background:rgba(200,200,200,0.8);
+  border: 1px solid rgba(1,1,1,0.8);
+  bottom: 100px;
+  left: -380px;
+  position:fixed;
+  border-radius:5px;
+  box-shadow: 0px 25px 10px -15px rgba(0, 0, 0, 0.35);
+  transition: 0.5s;
+}
+
+.close{
+  position:absolute;
+  top: 5px;
+  right: 5px;
+  width: 20px;
+  height: 20px;
+  cursor:pointer;
+  z-index:500;
+
+}
+
+.ns-close {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    overflow: hidden;
+    text-indent: 100%;
+    cursor: pointer;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.ns-close:hover, 
+.ns-close:focus {
+    outline: none;
+}
+
+.ns-close::before,
+.ns-close::after {
+    content: '';
+    position: absolute;
+    width: 3px;
+    height: 60%;
+    top: 50%;
+    left: 50%;
+    background: #000;
+}
+
+.ns-close:hover::before,
+.ns-close:hover::after {
+    background: rgba(1,1,1,0.8);
+}
+
+.ns-close::before {
+    -webkit-transform: translate(-50%,-50%) rotate(45deg);
+    transform: translate(-50%,-50%) rotate(45deg);
+}
+
+.ns-close::after {
+    -webkit-transform: translate(-50%,-50%) rotate(-45deg);
+    transform: translate(-50%,-50%) rotate(-45deg);
+}
+
+#popupContent{
+    text-align: center;
+}
+
+.buttonMail{
+    margin-top: 10px;
+    margin-bottom: 8px;
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 600;
+    border: 2px solid #337ab7;
+    color: #337ab7;
+    background: white;
+    line-height: 1em;
+    padding: 0.6em 0.9em;
+    cursor: pointer;
+    width: 190px;
+}
+
+.smallItalics{
+    font-size: 14px;
+    font-style: italic;
+}
+
+.inputForm{
+    width: 190px;
+    border-radius: 5px;
+    border: 1px solid black; 
+    text-align:center;
+    
+}
+
+
+//--- POPUP CSS END STUFF
+

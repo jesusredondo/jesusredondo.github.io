@@ -44,6 +44,7 @@ During the scholar course 2012-2013 I completed my final degree project of Compu
 ## OTHER INTERESTING STUFF:
 
 * Creator of the [FederGOB Plugin](https://github.com/jesusredondo/ckanext-federgob) to automatice federation services using CKAN with the official statal open-data portal [Datos.gob.es](http://datos.gob.es/).
+* Winner of the [Second *Opendata Cáceres Hackathon*](http://escuelapolitecnicacc.blogspot.com.es/2016/12/resumen-ii-hackathon-opendata.html).
 * Winner of the [First *Opendata Cáceres Hackathon*](http://escuelapolitecnicacc.blogspot.com.es/2015/11/i-hackathon-opendata-caceres.html).
 * Erasmus+ in Ireland working for [Ireland Website Design](http://www.irelandwebsitedesign.com/) (2016). 
 * Erasmus student in Dundalk, Ireland (2010-2011).

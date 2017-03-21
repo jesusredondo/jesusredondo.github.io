@@ -1,6 +1,27 @@
 ---
 layout: default
 ---
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(window).scroll(function() {
+      console.log($(window).scrollTop()+" -- "+ $("article.post").height() +" -- "+ $(window).height());
+      //if ($(window).scrollTop() >= ($(document).height() - $(window).height())) {
+      if ($(window).scrollTop() >= 1000 ||
+        $(window).scrollTop() >= ($("article.post").height() - $(window).height() - 100)){
+        $('.popup').css( "left", "20px" )
+      }else{
+        $('.popup').css( "left", "-380px" ); 
+      }
+    });
+
+    $('.close').click(function(){
+      $('.popup').hide();
+    });
+
+  });
+</script>
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -16,3 +37,17 @@ layout: default
     {% include disqus_comments.html %}
   {% endif %}
 </article>
+
+<div class="popup">
+  <div class="close ns-close"></div>
+  <div id="popupContent">
+    <form method="POST" action="http://formspree.io/redondogarciajesus@gmail.com">
+      <h3>Do you like this content?</h3>
+      <input class="inputForm" type="email" name="email" placeholder="Your email" required />
+      <br>
+      <button class="buttonMail" type="submit">Keep me updated!</button>
+      <p class="smallItalics">Zero spam will be sent to you mail.</p>
+    </form>
+  </div>
+
+</div>
