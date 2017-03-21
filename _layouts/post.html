@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="https://code.jquery.com/jquery-1.9.1.js"></script>
 <script type="text/javascript">
-  alert("Va el javascript");
   $(document).ready(function() {
-    alert("Va jquery");
     $(window).scroll(function() {
       console.log($(window).scrollTop()+" -- "+ $("article.post").height() +" -- "+ $(window).height());
       //if ($(window).scrollTop() >= ($(document).height() - $(window).height())) {
@@ -45,7 +43,7 @@ layout: default
   <div id="popupContent">
     <form method="POST" action="http://formspree.io/redondogarciajesus@gmail.com">
       <h3>Do you like this content?</h3>
-      <input class="inputForm" type="email" name="email" placeholder="Your email" required />
+      <input class="inputForm" type="email" name="email" placeholder="Type your email" required />
       <br>
       <button class="buttonMail" type="submit">Keep me updated!</button>
       <p class="smallItalics">Zero spam will be sent to you mail.</p>
