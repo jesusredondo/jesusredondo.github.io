@@ -50,9 +50,12 @@ Isometric:
 <img alt="Isometric-cells" src="/images/gameDevelop/3/5.png" width="400">
 *Isometric cells*
 
-But what it is really useful in Tiled is its ability to add extra information to our maps. The following example shown an area of the map in which I have added extra information: 
-1 → Where the player is going to be when I load the map.  
-2 → A dangerous area: when the player enters that area, monster will appear.
+But what it is really useful in Tiled is its ability to add extra information to our maps. The following example shows an area of the map in which I have added extra information: 
+
+1. Where the player is going to be when I load the map.  
+
+2. A dangerous area: when the player enters that area, monster will appear.
+
 
 <img alt="metadata-tiled" src="/images/gameDevelop/3/6.png" width="400">
 *Metadata in Tiled*
