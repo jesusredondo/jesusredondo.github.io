@@ -113,7 +113,7 @@ Far from being a finished project, I think I have made significant progress and 
 
 ## 5 Conclusions:
 
-It is never too late to learn, modify the concept and adapt it to realistic goals. In my case the original video game I had thought is very different from the one I'm developing. I was aware that I had a wrong approach given my abilities, so stteping back has been the right choice to move forward stronger.
+It is never too late to learn, modify the concept and adapt it to realistic goals. In my case the original video game I had thought is very different from the one I'm developing. I was aware that I had a wrong approach given my abilities, so stepping back has been the right choice to move forward stronger.
 
 Yet all what I did has served me as a tool to realize how important it is to focus the project on something that is temporarily and emotionally viable. **Now I see real and continuous progress in a game, not in a plan**, and that is making me like more my hobby and my new approach every day. 
 
