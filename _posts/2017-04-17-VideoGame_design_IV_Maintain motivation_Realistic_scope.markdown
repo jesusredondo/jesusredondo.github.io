@@ -36,7 +36,7 @@ It looked like I was progressing well, I had open fronts in different parts of t
 
 How can I represent the world? What screen resolution am I going to use? What size must the sprites have? How I handle the camera so it follows the main character? How I keep track of the decisions and choices of the game? …
 
-Facing so many questions and so little responses was discouraging. Instead of throwing in the towel, what I have done is refocus the game I want to create, basically I need to start with something simpler, something **feasible** for me given my circumstances.  What I am going to do is develop an archetype game, have a very clear goal and organize myself so I won’t lose time in parts of the project I don’t know if will even come to the final game.
+Facing so many questions and so little responses was discouraging. Instead of throwing in the towel, what I have done is refocus the game I want to create, basically I need to start with something simpler, something **feasible for me given my circumstances**.  What I decided to do is developing an archetype game, have a very clear goal and organize myself so I won't lose time in parts of the project I don't know if will ever come to the final game.
 
 My priority changed to having a demo that could clarify what I wanted to develop.
 
@@ -68,29 +68,29 @@ I created a lot of things during that time… but how useful were those things? 
 I always update my Trello with concise tasks I can finish in one day (sometimes complications arise and tasks take longer). It might look stupid writing what you have to do in a board on Internet, especially if we work as solo-developers. But for me it has been day and night, it is key to know in every moment what you have to do next, and focus effort on that without further delay. 
 
 <img alt="Archived-trello" src="/images/gameDevelop/4/6.png" width="300">
-*Some of the stuff I have finished already*
+*Some of the stuff I have already finished*
 
 ## 3 Graphics:
 
-I like drawing, I think I'm not too bad at it, so I could produce decent graphics for the game, problem is: I'm not used to doing that, so it would take very long to produce graffic assets for the game.
+I like drawing, I think I'm not too bad at it, so I could produce decent graphics for the game, problem is: I'm not used to doing that, so it would take very long to produce graphical assets for the game.
 
 In fact, I had already created the main char animations:
 
 <img alt="Idle" src="/images/gameDevelop/4/2.gif" width="100">
 *Idle char*
 
-<img alt="Walking" src="/images/gameDevelop/4/9.gif " width="100">
+<img alt="Walking" src="/images/gameDevelop/4/9.gif" width="100">
 *Walking char*
 
-<img alt="Running" src="/images/gameDevelop/4/8.gif " width="100">
+<img alt="Running" src="/images/gameDevelop/4/8.gif" width="100">
 *Running char*
 
-<img alt="Firing" src="/images/gameDevelop/4/7.gif " width="100">
+<img alt="Firing" src="/images/gameDevelop/4/7.gif" width="100">
 *Firing char*
 
 And more scenes as the harbor I showed before:
 
-<img alt="Firing" src="/images/gameDevelop/4/10.png " width="150">
+<img alt="Firing" src="/images/gameDevelop/4/10.png" width="150">
 *Terrain layers*
 
 
@@ -98,7 +98,7 @@ I decided to change the chip and dedicate myself to programming and making a fun
 
 1. I can spend time programming, not painting.
 
-2. I discover styles that I did not intend to use, but I like them (something beyond pixel art).
+2. I discover styles that I did not intended to use, but I still like them (something beyond pixel art).
 
 The good thing about using CC0 licensed graphics is that I can modify and use them at my whim.
 
@@ -115,7 +115,7 @@ Far from being a finished project, I think I have made significant progress and 
 
 It is never too late to learn, modify the concept and adapt it to realistic goals. In my case the original video game I had thought is very different from the one I'm developing. I was aware that I had a wrong approach given my abilities, so stteping back has been the right choice to move forward stronger.
 
-Yet all what I did has served me as a tool to realize how important it is to focus the project on something that is temporarily and emotionally viable. **Now I see real and continous progress in a game, not in a plan**, and that is making me like more my hobby and my new approach every day. 
+Yet all what I did has served me as a tool to realize how important it is to focus the project on something that is temporarily and emotionally viable. **Now I see real and continuous progress in a game, not in a plan**, and that is making me like more my hobby and my new approach every day. 
 
 
 #### Do not hesitate to comment on doubts and to leave me new proposals for the following entries!
